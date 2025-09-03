@@ -1,4 +1,4 @@
-# SIG_L2
+# ORGANISATION
 
 L'ensemble des supports de cours présentés lors des séances ainsi que les données pour réaliser les TDs sont disponibles sur cet espace. 
 
