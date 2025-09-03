@@ -19,7 +19,7 @@ OBJECTIFS DES SÉANCES
 
 #Séance 3#
 
-• Se familiariser avec les données ‘raster’ dans QGIS\
+• Se familiariser avec les données rasteR dans QGIS\
 • Apprendre à géoréférencer des images raster\
 • Créer et enregistrer des couches raster géoréférencées\
 
