@@ -41,11 +41,11 @@ OBJECTIFS DES SÉANCES
 
 #Séance 7#
 
-• Maitriser les traitements basiques sur des données vectorielles et rasters pour répondre à un problème simple (cas n°1)\
+• Maitriser les traitements basiques sur des données vectorielles et rasters pour répondre à un problème simple (cas n°1)
 
 #Séance 8#
 
-• Maitriser les traitements basiques sur des données vectorielles et rasters pour répondre à un problème simple (cas n°2)\
+• Maitriser les traitements basiques sur des données vectorielles et rasters pour répondre à un problème simple (cas n°2)
 
 ACCÈS AUX DONNÉES : https://seafile.unistra.fr/library/77e3c229-edeb-4896-97f1-7afe9a69138c/L2-SIG-DATA/
 
