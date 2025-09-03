@@ -9,6 +9,9 @@ OBJECTIFS
 
 • Prendre en main QGIS / comprendre son architecture et son fonctionnement
 • Se familiariser avec les différents types de données (vecteurs et raster)
+• Accès au support de cours
+• Accès aux données
+
 
 #Séance 2
 
@@ -23,7 +26,7 @@ OBJECTIFS
 #Séance 4
 
 • Créer de nouvelles couches vectorielles par digitalisation (entités spatiales et table attributaire)
-• Comprendre quelles sont les démarches nécessaires pour créer et structurer de façon correcte des données vectorielles
+• Comprendre quelles sont les démarches nécessaires pour créer et structurer de façon correcte des données vectorielles 
 
 #Séance 5
 
