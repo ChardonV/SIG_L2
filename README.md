@@ -26,7 +26,7 @@ OBJECTIFS DES SÉANCES
 #Séance 4
 
 • Créer de nouvelles couches vectorielles par digitalisation (entités spatiales et table attributaire)
-• Comprendre quelles sont les démarches nécessaires pour créer et structurer de façon correcte des données vectorielles 
+• Comprendre les démarches nécessaires pour créer et structurer de façon correcte des données vectorielles 
 
 #Séance 5
 
