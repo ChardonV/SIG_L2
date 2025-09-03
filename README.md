@@ -10,7 +10,7 @@ OBJECTIFS DES SÉANCES
 • Prendre en main QGIS / comprendre son architecture et son fonctionnement\
 • Se familiariser avec les différents types de données (vecteurs et raster)\
 • Accès au support de cours\
-• Accès aux données\
+• Accès aux données
 
 
 #Séance 2#
@@ -21,23 +21,23 @@ OBJECTIFS DES SÉANCES
 
 • Se familiariser avec les données rasteR dans QGIS\
 • Apprendre à géoréférencer des images raster\
-• Créer et enregistrer des couches raster géoréférencées\
+• Créer et enregistrer des couches raster géoréférencées
 
 #Séance 4#
 
 • Créer de nouvelles couches vectorielles par digitalisation (entités spatiales et table attributaire)\
-• Comprendre les démarches nécessaires pour créer et structurer de façon correcte des données vectorielles\
+• Comprendre les démarches nécessaires pour créer et structurer de façon correcte des données vectorielles
 
 #Séance 5#
 
 • Interpréter le paysage par la création d’une cartographie de l’occupation des sols et une description de la morphologie urbaine\
 • Calculer des métriques spatiales\
-• Apprendre à commenter une cartographie produite sur un espace urbain au regard de l’évolution morphologique de cet espace dans le temps\
+• Apprendre à commenter une cartographie produite sur un espace urbain au regard de l’évolution morphologique de cet espace dans le temps
 
 #Séance 6#
 
 • Importer des photographies issues d’un smartphone et les géolocaliser dans QGIS\
-• Importer des données 3D de type MNT et les visualiser dans GIS, créer une représentation en ombrage et calculer un profil topographique\
+• Importer des données 3D de type MNT et les visualiser dans GIS, créer une représentation en ombrage et calculer un profil topographique
 
 #Séance 7#
 
