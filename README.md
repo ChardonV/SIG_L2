@@ -3,7 +3,7 @@
 L'ensemble des supports de cours présentés lors des séances ainsi que les données pour réaliser les TDs sont disponibles sur cet espace. 
 
 
-OBJECTIFS DES SÉANCES
+==> OBJECTIFS DES SÉANCES
 
 #Séance 1 
 
