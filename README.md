@@ -12,7 +12,7 @@ OBJECTIFS DES SÉANCES
 
 #Séance 2#
 
-• Se familiariser avec les moyens et outils pour consulter, importer des sources de données géographiques\
+• Se familiariser avec les moyens et outils pour consulter, importer des sources de données géographiques
 
 #Séance 3#
 
