@@ -34,7 +34,7 @@ OBJECTIFS DES SÉANCES
 #Séance 6#
 
 • Importer des photographies issues d’un smartphone et les géolocaliser dans QGIS\
-• Importer des données 3D de type MNT et les visualiser dans GIS, créer une représentation en ombrage et calculer un profil topographique
+• Importer des données 3D de type MNT et les visualiser dans GIS, créer une représentation en ombrage et mesurer un profil topographique
 
 #Séance 7#
 
