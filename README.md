@@ -8,10 +8,7 @@ OBJECTIFS DES SÉANCES
 #Séance 1#
 
 • Prendre en main QGIS / comprendre son architecture et son fonctionnement\
-• Se familiariser avec les différents types de données (vecteurs et raster)\
-• Accès au support de cours\
-• Accès aux données
-
+• Se familiariser avec les différents types de données (vecteurs et raster)
 
 #Séance 2#
 
