@@ -5,7 +5,7 @@ L'ensemble des supports de cours présentés lors des séances ainsi que les don
 
 🎯 OBJECTIFS DES SÉANCES
 
-#<Séance 1# style="color: green">Séance 1#</span>
+#Séance 1#
 
 • Prendre en main QGIS / comprendre son architecture et son fonctionnement\
 • Se familiariser avec les différents types de données (vecteurs et raster)
