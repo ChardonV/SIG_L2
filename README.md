@@ -40,7 +40,7 @@ Aidez-vous du guide Qgis pour mener à bien les TDs : https://docs.qgis.org/3.40
 
 #Séance 7#
 
-• Maitriser les traitements basiques sur des données vectorielles et rasters pour répondre à un problème simple (cas n°1)
+• Maitriser les traitements basiques sur des données vectorielles pour répondre à un problème simple (cas n°1)
 
 #Séance 8#
 
