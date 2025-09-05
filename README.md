@@ -2,6 +2,8 @@
 
 L'ensemble des supports de cours présentés lors des séances ainsi que les données pour réaliser les TDs sont disponibles sur cet espace. 
 
+Aidez-vous du guide Qgis pour mener à bien les TDs : https://docs.qgis.org/3.40/fr/docs/user_manual/
+
 
 🎯 OBJECTIFS DES SÉANCES
 
