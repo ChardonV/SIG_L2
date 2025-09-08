@@ -46,6 +46,6 @@ Aidez-vous du guide Qgis pour mener à bien les TDs : https://docs.qgis.org/3.40
 
 • Maitriser les traitements basiques sur des données vectorielles et rasters pour répondre à un problème simple (cas n°2)
 
-ACCÈS AUX DONNÉES : https://seafile.unistra.fr/library/77e3c229-edeb-4896-97f1-7afe9a69138c/L2-SIG-DATA/
+ACCÈS AUX DONNÉES : https://seafile.unistra.fr/d/ccf8a45d9f354f87a994/
 
 
